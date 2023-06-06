@@ -29,5 +29,10 @@ body{
  top: 0;
  left: 0;
  width: 100%;
-  
+  padding: 2rem 9%;
+  background: yellowgreen;
+  display: flex;
+  justify-content: spach-between;
+  align-items: center;
+  z-index: 100;
 }
